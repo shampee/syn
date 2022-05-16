@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Hampus O"
-description   = "Query moby-thesaurus.org on the command line"
+description   = "Query moby-thesaurus.org from the command line"
 license       = "MIT"
 srcDir        = "src"
 bin           = @["syn"]

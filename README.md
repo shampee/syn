@@ -1,2 +1,2 @@
 # syn
-Query moby-thesaurus.org on the command line
+Query moby-thesaurus.org from the command line
